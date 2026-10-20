@@ -1,4 +1,4 @@
-# KernelSU iOS Emoji Module
+8# KernelSU iOS Emoji Module
 Systemlessly replaces the Android emoji font with an updated iOS-style emoji set.
 
 ## Changelog
